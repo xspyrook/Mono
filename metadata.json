@@ -1,0 +1,6 @@
+{
+  "name": "MONO GLASS",
+  "description": "مشغّل أندرويد أحادي اللون (أبيض وأسود) بتأثيرات زجاجية مستقبلية فائقة السلاسة - Pure Monochrome Glassmorphism Android Launcher",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
